@@ -1,0 +1,8 @@
+# ignore all LaTeX files except the final .pdf (added to the commit seperatley)
+overleaf/
+
+# ignore the Arduino testing files (used before I started using git, so it was needed)
+musicBoxTester/
+
+# ignore the project proposal (not important)
+Project\ Proposal.*
